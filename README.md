@@ -12,3 +12,4 @@
 
 # Q4 2023
 - [Caviar Private Pools Contest](./code4rena/2023-04-caviar/README.md)
+- [Rubicon V2 Contest](./code4rena/2023-04-rubicon/README.md)
