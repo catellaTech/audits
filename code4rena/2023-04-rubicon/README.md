@@ -4,4 +4,4 @@
 
 ## QA Report
 - **QA Selected for report** 🏆
-[QA Report](./qa.md)
+- [QA Report](./qa.md)
