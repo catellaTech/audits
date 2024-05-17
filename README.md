@@ -12,6 +12,7 @@
 - [Frankencoin Contest](./code4rena/2023-04-Frankencoin/README.md)
 - [ENS Contest](./code4rena/2023-04-ens/README.md)
 - [Stader Contest](./code4rena/2023-06-stader/README.md)
+- [Lukso Contest](./code4rena/2023-06-lukso/README.md)
 
 ## Q3 2023
 - [PoolTogether Contest](./code4rena/2023-07-pooltogether/README.md)
