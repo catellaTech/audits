@@ -3,7 +3,7 @@
 - Rank: Top 31 out of 111 wardens.
 
 ## Medium 
-- [M-01 In important libraries of PoolTogether, the pow() function of PRBMath is used, which exhibits inconsistent return values](./M-01.md)
+- [M-01 In important libraries of PoolTogether, the pow() function of PRBMath is used, which exhibits inconsistent return values](./M-01.md) **Medium Selected For Report**🏆
 - [M-02 In the function PrizePool.setDrawManager(), anyone can frontrun it and become the drawManager](./M.02.md)
 
 ## QA Report
