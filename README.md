@@ -11,4 +11,4 @@
 - [Asymmetry contest](./code4rena/2023-03-asymmetry/README.md)
 
 # Q4 2023
-- []()
+- [Caviar Private Pools Contest](./code4rena/2023-04-caviar/README.md)
