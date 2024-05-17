@@ -17,6 +17,6 @@
 ## Q3 2023
 - [PoolTogether Contest](./code4rena/2023-07-pooltogether/README.md)
 - [Moonwell Contest](./code4rena/2023-07-moonwell/README.md)
-- [Tangible Caviar Contest]() This is private
+- [Tangible Caviar Contest]() **This is private**
 - [GoodEntry Contest](./code4rena/2023-08-goodentry/README.md)
-  
+- [veRWA Contest](./code4rena/2023-08-verwa/README.md)
