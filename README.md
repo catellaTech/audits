@@ -11,4 +11,5 @@
 - [Rubicon V2 Contest](./code4rena/2023-04-rubicon/README.md)
 - [Frankencoin Contest](./code4rena/2023-04-Frankencoin/README.md)
 - [ENS Contest](./code4rena/2023-04-ens/README.md)
+- [Stader Contest](./code4rena/2023-06-stader/README.md)
 
