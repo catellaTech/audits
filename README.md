@@ -20,3 +20,7 @@
 - [Tangible Caviar Contest]() **This is private**
 - [GoodEntry Contest](./code4rena/2023-08-goodentry/README.md)
 - [veRWA Contest](./code4rena/2023-08-verwa/README.md)
+- [Arbitrum Contest](./code4rena/2023-08-arbitrum/README.md)
+- [Shell Contest](./code4rena/2023-08-shell/README.md)
+- [Livepeer Contest](./code4rena/2023-08-livepeer/README.md)
+- [Dopex Contest](./code4rena/2023-08-dopex/README.md)
