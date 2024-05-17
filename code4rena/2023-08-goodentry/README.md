@@ -13,4 +13,4 @@
 [QA Report](./qa.md)
 
 ## Analysis Report
-[Analysis Report](./Analysis.md)**Analysis Selected For Report**🏆
+[Analysis Report](./Analysis.md)  **Analysis Selected For Report**🏆
