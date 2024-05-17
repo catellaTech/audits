@@ -14,4 +14,4 @@
 - [Stader Contest](./code4rena/2023-06-stader/README.md)
 
 ## Q3 2023
-- [PoolTogether Contest]()
+- [PoolTogether Contest](./code4rena/2023-07-pooltogether/README.md)
