@@ -3,5 +3,5 @@
 - Rank: Top 22 out of 179 wardens.
 
 ## QA Report
-**QA Selected for report** 🏆
+- **QA Selected for report** 🏆
 [QA Report](./qa.md)
