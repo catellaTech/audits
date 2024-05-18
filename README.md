@@ -1,4 +1,4 @@
-# Catellatech Group Smart Contract Security Audits
+# Catellatech Smart Contract Security Audits🔒
 ## Q1 2023
 - [RabbitHole Quest Protocol](./code4rena/2023-01-rabbithole/README.md)
 - [Ethos Reserve ](./code4rena/2023-02-ethos/README.md)
