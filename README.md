@@ -24,3 +24,5 @@
 - [Shell Contest](./code4rena/2023-08-shell/README.md)
 - [Livepeer Contest](./code4rena/2023-08-livepeer/README.md)
 - [Dopex Contest](./code4rena/2023-08-dopex/README.md)
+- [Ondo Finance Contest](./code4rena/2023-09-ondo/README.md)
+  
