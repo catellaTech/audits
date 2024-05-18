@@ -9,19 +9,18 @@ When the user performs `transfer()`, it will check if there is enough collateral
 
 It is recommended to execute `accrueInterest()` first when transferring:
 
-```diff
-// @audit in the function transfer
-    function transfer(address dst, uint256 amount) override external nonReentrant returns (bool) {
-    + accrueInterest();  
-      return transferTokens(msg.sender, msg.sender, dst, amount) == uint(Error.NO_ERROR);
-    }
+```diff 
+  // @audit in the function transfer
+      function transfer(address dst, uint256 amount) override external nonReentrant returns (bool) {
+      + accrueInterest();  
+        return transferTokens(msg.sender, msg.sender, dst, amount) == uint(Error.NO_ERROR);
+      }
 
-// @audit in the function transferFrom as well
-    function transferFrom(address src, address dst, uint256 amount) override external nonReentrant returns (bool) {
-    + accrueInterest();   
-      return transferTokens(msg.sender, src, dst, amount) == uint(Error.NO_ERROR);
-    }    
-  
+  // @audit in the function transferFrom as well
+      function transferFrom(address src, address dst, uint256 amount) override external nonReentrant returns (bool) {
+      + accrueInterest();   
+        return transferTokens(msg.sender, src, dst, amount) == uint(Error.NO_ERROR);
+      }    
 ```
 ## [02] utilizationRate() could DoS in WhitePaperInterestRateModel.sol contract
 Reading the documentation of this function [utilizationRate()](https://github.com/code-423n4/2023-07-moonwell/blob/main/src/core/IRModels/WhitePaperInterestRateModel.sol#L44-L58), they do not perform proper checks before carrying out the respective computation. If the denominator in any case equates 0, `i.e cash.add(borrows).sub(reserves) == 0` the execution reverts due to a division by zero.
